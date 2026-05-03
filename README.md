@@ -38,7 +38,7 @@ Diese Studie bewertet den Einfluss der Flügellänge auf die Flugdauer. Durch de
 
 ### 🔑 Wichtigste Ergebnisse
 - **Statistische Signifikanz:** Hochsignifikanter Unterschied festgestellt ($p < 0,001$).
-- **Leistung:** Das Modell با verlängerten Flügeln übertrifft das Standardmodell systematisch.
+- **Leistung:** Das Modell mit verlängerten Flügeln übertrifft das Standardmodell systematisch.
 - **Empfehlung:** Die Umstellung der Produktion auf das optimierte Flügeldesign ist statistisch begründet und wird empfohlen.
 
 ---
