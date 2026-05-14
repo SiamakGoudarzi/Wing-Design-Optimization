@@ -1,5 +1,5 @@
-# Paper Plane Wing Optimization: Statistical Study
-# Flügel-Optimierung bei Papierfliegern: Statistische Studie
+# Plane Wing Optimization
+# Wing-Design-Optimization
 
 ## 🌎 Language / Sprache
 - [English](#english)
